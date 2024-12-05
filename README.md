@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Sam Harrison!
 ![TryHackMe stats](https://raw.githubusercontent.com/samharrison2004/samharrison2004/master/assets/thm_propic.png)
+
 Welcome to my GitHub! I'm a tech enthusiast and aspiring cybersecurity professional with a passion for problem-solving, programming, and continuous learning. My journey in tech is driven by curiosity and a commitment to developing real-world, impactful solutions.
 
 ### 📫 Let's Connect!
