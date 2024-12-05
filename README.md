@@ -3,15 +3,18 @@
 Welcome to my GitHub! I'm a tech enthusiast and aspiring cybersecurity professional with a passion for problem-solving, programming, and continuous learning. My journey in tech is driven by curiosity and a commitment to developing real-world, impactful solutions.
 
 ## 🚀 A Bit About Me
-+ Background: I recently completed an Engineering and Physical Sciences Foundation Year at the University of Nottingham, where I delved into Mathematics, Electromagnetism, Mechanics, and Advanced Engineering. During this time, I worked on projects like simulating an engine cylinder using MATLAB.
-+ Education: My academic foundation includes A-Levels in Computer Science, Mathematics, and Physics, complemented by a strong track record in GCSEs.
-+ Current Learning: I'm honing my skills in offensive and defensive cybersecurity through platforms like TryHackMe. Topics include SOC operations, reverse engineering, and threat analysis. In addition, I'm working on programming projects relating to cybersecurity to futher my understanding.
+### Background
+I am a confident and hardworking individual with a proactive attitude and a strong commitment to learning and self-improvement. My professional experience spans various roles, including machine operation, retail management, and hospitality, where I developed skills such as adaptability, problem-solving, and effective communication. I thrive in both independent and team settings, taking initiative to ensure tasks are completed efficiently and to a high standard. 
+### Education
+I attended [the King's (The Cathedral) School](https://www.kings.peterborough.sch.uk/), where I achieved A-Levels in Computer Science, Mathematics, and Physics, complemented by a strong track record in GCSEs. Following this, I attended the University of Nottingham, where I completed a Foundation Year in Engineering and Physical Sciences. I then undertook my first year in Electrical and Electronic Engineering, before dropping out in favour of an apprenticeship.
+### Current Learning
+I'm honing my skills in offensive and defensive cybersecurity through platforms like TryHackMe. Topics include SOC operations, reverse engineering, and threat analysis. In addition, I'm working on programming projects relating to cybersecurity to futher my understanding of the field.
 ## 🛠️ Technical Skills
 ### Languages
-+ Python
-+ C
-+ Arduino (C#)
-+ MATLAB
++ **Python** - I have been learning Python since secondary school, I have a deep understanding of the language
++ **C** - I learned C during my first year of University, and picked it up quickly. It was an interesting and engaging experience to learn the language when I'm used to higher level languages.
++ **Arduino (C#)** - I learned the Arduino language both during my own time, where I made Electronics projects as a hobby, and during the first year of my Electrical and Electronic Engineering degree where I learned how to use technologies such as Computer Vision, Sonar and short range WiFi communication to control a robot.
++ **MATLAB** - I learned MATLAB during my foundation year. I learned how to manipulate data and create engaging graphs. For my end-of=year project I made a 2D simulation of a pSiston firing.
 
 ### Cybersecurity: 
 + Self-
