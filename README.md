@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Sam Harrison!
 <img src="https://tryhackme-badges.s3.amazonaws.com/Sam.Harr2004.png" alt="Your Image Badge" />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samharrison2004&show_icons=true&theme=synthwave)
+
 Welcome to my GitHub! I'm a tech enthusiast and aspiring cybersecurity professional with a passion for problem-solving, programming, and continuous learning. My journey in tech is driven by curiosity and a commitment to developing real-world, impactful solutions.
 
 ### 📫 Let's Connect!
