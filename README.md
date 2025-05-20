@@ -6,7 +6,6 @@
 Welcome to my GitHub! I'm a tech enthusiast and aspiring cybersecurity professional with a passion for problem-solving, programming, and continuous learning. My journey in tech is driven by curiosity and a commitment to developing real-world, impactful solutions.
 
 ### 📫 Let's Connect!
-+ [Email me](mailto:harrison.2004@outlook.com)
 + [LinkedIn](https://www.linkedin.com/in/sam-harrison-0b2a5227a/)
   
 ## 🚀 A Bit About Me
